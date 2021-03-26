@@ -36,7 +36,18 @@ t1 = t2 = t3
 ###F strings
 Mettre en forme le string
 
-###Utiliser python :
+##Utiliser python :
 Pour connaitre les fonction associé à une variable faire
 s. tab tab ou dir (s)
+
+###Listes compréhensives :
+res2 = [i.upper() for i in ll isintance(i,str)]
+
+##Fonction
+## Faire une fonction sans connaitre le nombre d'arguments à l'avance :
+
+Mettre une * avant pour dire "attribut pas obligatoire dans la fonction".
+
+
+
 
