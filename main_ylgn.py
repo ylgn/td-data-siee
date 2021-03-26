@@ -3,7 +3,7 @@ import pandas as pd
 import lxml.html
 
 #######################################
-# Ici on va récupérer les différentes voitures à vendre de la catégorie berline comptacte de chez Aramimis Auto
+# Get all car from berline comptacte on aramisauto.com
 URL = 'https://www.aramisauto.com/achat/berline-compacte/'
 headers = {}
 uagent = ('Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.17 (KHTML, like '
